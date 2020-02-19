@@ -1,2 +1,2 @@
 all: 
-	gcc -O2 src/main.c -o swtd
+	g++ -std=c++17  -O2 src/main.cpp -o swtd
