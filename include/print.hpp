@@ -1,3 +1,10 @@
+/*
+ * @project Soundwave's task manager(todo)
+ * @file print.hpp
+ * @author SoundWave
+ * @date 20 February, 2020
+ * @brief print function description
+ * */
 #include <iostream>
 #include <string>
 //Colors
